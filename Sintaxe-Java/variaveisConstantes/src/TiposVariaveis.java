@@ -1,5 +1,3 @@
-package dio.joao.sintaxjava;
-
 public class TiposVariaveis {
     @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
@@ -23,3 +21,4 @@ public class TiposVariaveis {
 
     }
 }
+
