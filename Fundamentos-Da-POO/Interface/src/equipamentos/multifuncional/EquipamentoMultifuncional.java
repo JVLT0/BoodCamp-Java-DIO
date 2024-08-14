@@ -10,7 +10,7 @@ public class EquipamentoMultifuncional implements Copiadora, Digitalizadora, Imp
     public void copiar() {
         System.out.println("COPIANDO VIA EQUIPAMENTO MULTIFUNCIOANAL");
     }
-
+ 
     public void digitalizar() {
         System.out.println("DIGITALIZANDO VIA EQUIPAMENTO MULTIFUNCIOANAL");
     }
